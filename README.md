@@ -1,2 +1,2 @@
 # helloworld
-first repository
+first repository with edition
